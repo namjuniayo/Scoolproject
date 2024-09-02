@@ -1,2 +1,2 @@
 # Scoolproject
- Scoolproject
+Это школьный проект для обучения.
